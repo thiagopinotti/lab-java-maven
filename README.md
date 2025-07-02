@@ -7,7 +7,7 @@ Este repositório fornece um ambiente de desenvolvimento acessível via navegado
 - Git
 - Terminal integrado (VS Code Web / Code Server)
 
-Imagem usada: [thiagogama/code-server-java:latest](https://hub.docker.com/r/thiagogama/code-server-java)
+Imagem usada: [thiagopinotti/code-server-java:latest](https://hub.docker.com/r/thiagopinotti/code-server-java)
 
 ---
 
@@ -26,8 +26,8 @@ Imagem usada: [thiagogama/code-server-java:latest](https://hub.docker.com/r/thia
 #### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/thiagogama/code-server-java-kit.git
-cd code-server-java-kit
+git clone https://github.com/thiagopinotti/lab-java-maven.git
+cd lab-java-maven.git
 ```
 
 #### 2. Rode com Docker Compose
@@ -56,8 +56,8 @@ Senha: **123456**
 Via Git:
 
 ```bash
-git clone https://github.com/thiagogama/code-server-java-kit.git
-cd code-server-java-kit
+git clone https://github.com/thiagopinotti/lab-java-maven.git
+cd lab-java-maven.git
 ```
 
 Ou clique em “Code → Download ZIP” no GitHub.
