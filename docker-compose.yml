@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  code-server:
+    image: thiagogama/code-server-java:latest
+    container_name: code-server-java
+    ports:
+      - "8080:8080"
+    environment:
+      - PASSWORD=123456
+    volumes:
+      - ~/projetos:/home/coder/project
+    user: "1000:1000"
