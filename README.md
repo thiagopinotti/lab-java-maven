@@ -27,7 +27,7 @@ Imagem usada: [thiagopinotti/code-server-java:latest](https://hub.docker.com/r/t
 
 ```bash
 git clone https://github.com/thiagopinotti/lab-java-maven.git
-cd lab-java-maven.git
+cd lab-java-maven
 ```
 
 #### 2. Rode com Docker Compose
@@ -57,7 +57,7 @@ Via Git:
 
 ```bash
 git clone https://github.com/thiagopinotti/lab-java-maven.git
-cd lab-java-maven.git
+cd lab-java-maven
 ```
 
 Ou clique em “Code → Download ZIP” no GitHub.
